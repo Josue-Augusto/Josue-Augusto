@@ -45,7 +45,7 @@ Criar um aplicativo Flutter Web que recebe parâmetros da URL (Query Params) e e
 
  - Funcionalidades<br>
 O aplicativo terá uma página que exibirá os parâmetros recebidos na URL.
-Os parâmetros serão passados via Query Params, como por exemplo: http://localhost:52695/?origin=pointA&destiny=pointB.
+Os parâmetros serão passados via Query Params, como por exemplo: http://exemplo.com.br/perfil?nome=Jhon&email=exmplo@email.com.
 Os parâmetros origin e destiny serão extraídos da URL e exibidos na tela.
 O caractere # será removido da URI para que a URL fique mais limpa.
 
