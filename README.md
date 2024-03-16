@@ -39,8 +39,8 @@ Flutter é um framework desenvolvido pelo Google para a criação de interfaces 
 
 ## web_query_params
 
-## Projeto de Exemplo: Query Params no Flutter Web
-Objetivo:
+Projeto de Exemplo: Query Params no Flutter Web<br>
+Objetivo:<br>
 Criar um aplicativo Flutter Web que recebe parâmetros da URL (Query Params) e exibe esses parâmetros na tela.
 
  - Funcionalidades<br>
