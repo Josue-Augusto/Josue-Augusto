@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por Flutter e Dart. Adoro criar aplicativos incr
 
 Flutter é um framework desenvolvido pelo Google para a criação de interfaces de usuário nativas para mobile, web e desktop a partir de uma única base de código. Dart é a linguagem de programação usada pelo Flutter, que oferece recursos poderosos para o desenvolvimento rápido e eficiente de aplicativos.
 
-# Meus Projetos
+# Meus Projetos📱
 
 
 
@@ -15,8 +15,7 @@ Flutter é um framework desenvolvido pelo Google para a criação de interfaces 
  Burguer Reference: Seu App de Delivery Personalizado.
  O Burguer Reference é um aplicativo de delivery de alimentos personalizado, projetado para empresas de todos os tamanhos. Com uma interface elegante e funcionalidades avançadas, o aplicativo permite que cada empresa tenha sua própria versão exclusiva.
 
- ## Recursos Principais:<br>
- 
+ Recursos Principais:<br> 
  * Painel Intuitivo para Empresas:<br>
  As empresas podem acessar um painel de controle intuitivo para gerenciar seus cardápios, preços, horários de funcionamento e promoções.
  Adicione, edite ou remova itens do cardápio com facilidade.
@@ -36,16 +35,6 @@ Flutter é um framework desenvolvido pelo Google para a criação de interfaces 
  * Login com Google e Segurança:<br>
  O login com Google simplifica o acesso dos usuários.
  Utilizamos o Firebase para autenticação segura e armazenamento de dados.
-
- 
- Tecnologias Utilizadas:<br>
- Flutter: Framework para desenvolvimento de aplicativos móveis multiplataforma.
- * Bloc Pattern: <br>
- Gerenciamento de estado eficiente para lidar com a lógica de negócios.
- * Firebase: <br>
- Para autenticação e armazenamento seguro de dados. 
- * Shared Preferences: <br>
- Para armazenar configurações e preferências do usuário.
 
 
 ## web_query_params
@@ -75,14 +64,6 @@ O caractere # será removido da URI para que a URL fique mais limpa.
  Após a conclusão do pedido, os usuários podem fornecer detalhes de entrega, como endereço e horário preferencial. O aplicativo facilita a entrega dos produtos diretamente ao cliente.
 
 
- Tecnologias Utilizadas:<br>
- Flutter: Framework para desenvolvimento de aplicativos móveis multiplataforma.
- * Bloc Pattern: <br>
- Gerenciamento de estado eficiente para lidar com a lógica de negócios.
- * Shared Preferences: <br>
- Para armazenar configurações e preferências do usuário.
-
-
 ## gilmar_prev_financial_app
 
  Gilmar prev financial app: Seu Parceiro Financeiro Inteligente.
@@ -108,13 +89,6 @@ Acompanhe o fluxo de caixa, identifique tendências e tome decisões embasadas.
 Reduza o tempo gasto em tarefas manuais de registro e reconciliação.
 O Gilmar prev financial app é o parceiro ideal para manter suas finanças empresariais sob controle.
 
- Tecnologias Utilizadas:<br>
- Flutter: Framework para desenvolvimento de aplicativos móveis multiplataforma.
- * Bloc Pattern: <br>
- Gerenciamento de estado eficiente para lidar com a lógica de negócios.
- * Shared Preferences: <br>
- Para armazenar configurações e preferências do usuário.
-
 
 ## pass_recorder
 
@@ -131,15 +105,19 @@ O Gilmar prev financial app é o parceiro ideal para manter suas finanças empre
  Visualização Gráfica: O PassRecorder apresenta seus cartões e senhas de forma visualmente agradável. Você pode ver os ícones dos serviços associados às senhas e os logotipos dos cartões de crédito.
  Login com Google: Faça login no aplicativo usando sua conta do Google para facilitar a criação de uma conta.
 
- Tecnologias Utilizadas:<br>
+
+
+ ### Tecnologias Utilizadas:<br>
  Flutter: Framework para desenvolvimento de aplicativos móveis multiplataforma.
  * Bloc Pattern: <br>
  Gerenciamento de estado eficiente para lidar com a lógica de negócios.
  * Firebase: <br>
- Para autenticação e armazenamento seguro de dados.
- * Shared Preferences:<br> 
+ Para autenticação e armazenamento seguro de dados e imagens. 
+ * Shared Preferences: <br>
  Para armazenar configurações e preferências do usuário.
+* Provider: <br>
+  Para gerenciamento de estado reativo e desacoplamento.
+* APIs: <br>
+ Consumo de endpoints de terceiros, persistência de dados.
 
-
-
-Estou sempre aprendendo e buscando melhorar minhas habilidades. Se você quiser colaborar em um projeto ou precisar de ajuda com algo, sinta-se à vontade para entrar em contato comigo!
+Estou sempre aprendendo e buscando melhorar minhas habilidades. Se você quiser colaborar em um projeto ou precisar de ajuda com algo, sinta-se à vontade para entrar em contato comigo!🤓
