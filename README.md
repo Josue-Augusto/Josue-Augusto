@@ -12,7 +12,7 @@ Flutter é um framework desenvolvido pelo Google para a criação de interfaces 
 
 ## reference_burguer_shop
 
- Burguer Reference: Seu App de Delivery Personalizado.
+ Burguer Reference: Seu App de Delivery Personalizado.<br>
  O Burguer Reference é um aplicativo de delivery de alimentos personalizado, projetado para empresas de todos os tamanhos. Com uma interface elegante e funcionalidades avançadas, o aplicativo permite que cada empresa tenha sua própria versão exclusiva.
 
  Recursos Principais:<br> 
