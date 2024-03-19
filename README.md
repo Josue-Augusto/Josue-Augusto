@@ -27,14 +27,21 @@ Flutter é um framework desenvolvido pelo Google para a criação de interfaces 
  O aplicativo calcula automaticamente o total do pedido.
  * Favoritos:<br>
  O aplicativo permite que salve os produtos que mais gosta.
- * Pesquisa simplificada:<br>
+ * Pesquisa Simplificada:<br>
  Com sistema de pesquisa intuitiva e moderna é possível pesquisar o produto desejado.
- * Acompanhamento do pedido:<br>
+ * Acompanhamento do Pedido:<br>
  Os usuários podem acompanhar todas as etapas do pedido, desde a preparação até a entrega.
  Receba notificações em tempo real sobre o status do pedido.
  * Login com Google e Segurança:<br>
  O login com Google simplifica o acesso dos usuários.
- Utilizamos o Firebase para autenticação segura e armazenamento de dados.
+ Utilizado o Firebase para autenticação segura e armazenamento de dados.
+ * Endereço de Entrega:<br>
+ Cadastre vários endereços de entrega e altere o endereço padrão quando quiser.
+ Cadastro inteligente com uso de API para o preenchimento automático dos campos.
+ * Carrinho de Compra:<br>
+ Navegue pelo aplicativo adicionando seus produtos no carrinho.
+ O carrinho conta com uma tela intuitiva que permite uma fácil conferência dos itens adicionando.
+ 
 
 
 ## web_query_params
@@ -50,7 +57,7 @@ Os parâmetros origin e destiny serão extraídos da URL e exibidos na tela.
 O caractere # será removido da URI para que a URL fique mais limpa.
 
 
-## afk_sales_app
+## sales_app
 
  - Aplicativo de Loja de Roupas em Flutter
  Este é um aplicativo de loja de roupas desenvolvido usando o framework Flutter. Ele oferece uma experiência de usuário perfeita para clientes que desejam visualizar produtos e fazer pedidos diretamente pelo aplicativo para entrega.
@@ -64,7 +71,7 @@ O caractere # será removido da URI para que a URL fique mais limpa.
  Após a conclusão do pedido, os usuários podem fornecer detalhes de entrega, como endereço e horário preferencial. O aplicativo facilita a entrega dos produtos diretamente ao cliente.
 
 
-## gilmar_prev_financial_app
+## financial_app
 
  Gilmar prev financial app: Seu Parceiro Financeiro Inteligente.
  O Gilmar prev financial app é um aplicativo de gerenciamento financeiro projetado para empresas AFK Gestão que permite manter um controle preciso de suas despesas e receitas. Com uma interface intuitiva e recursos poderosos, o aplicativo oferece uma visão abrangente das finanças da sua empresa.
