@@ -122,19 +122,20 @@ O Gilmar prev financial app é o parceiro ideal para manter suas finanças empre
 
 
  ### Tecnologias Utilizadas:`<br>
- * `Flutter`:<br> 
+ * `Flutter:`<br>
  Framework para desenvolvimento de aplicativos móveis multiplataforma.
- * `Bloc Pattern`:<br>
+ * `Bloc Pattern:`<br>
  Gerenciamento de estado eficiente para lidar com a lógica de negócios.
- * `Firebase`:<br>
+ * `Firebase:`<br>
  Para autenticação e persistência segura de dados e imagens.
- * `MySQL`:<br>
+ * `MySQL:`<br>
  Para persistência dos dados quan
- * `Shared Preferences`:<br>
+ * `Shared Preferences:`<br>
  Para armazenar configurações e preferências do usuário.
-* `Provider`:<br>
+* `Provider:`<br>
  Para gerenciamento de estado reativo e desacoplamento.
-* `APIs`:<br>
+* `APIs:`<br>
  Consumo de endpoints de terceiros, persistência de dados.
 
-Estou sempre aprendendo e buscando melhorar minhas habilidades. Se você quiser colaborar em um projeto ou precisar de ajuda com algo, sinta-se à vontade para entrar em contato comigo!🤓
+> [!NOTE]
+> Estou sempre aprendendo e buscando melhorar minhas habilidades. Se você quiser colaborar em um projeto ou precisar de ajuda com algo, sinta-se à vontade para entrar em contato comigo!🤓
