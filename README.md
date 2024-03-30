@@ -121,7 +121,7 @@ O Gilmar prev financial app é o parceiro ideal para manter suas finanças empre
 
 
 
- ### Tecnologias Utilizadas:`<br>
+ ### Tecnologias Utilizadas:<br>
  * `Flutter:`<br>
  Framework para desenvolvimento de aplicativos móveis multiplataforma.
  * `Bloc Pattern:`<br>
