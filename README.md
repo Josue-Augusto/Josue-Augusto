@@ -62,7 +62,7 @@ Seja localizado pelo seu cliente, defina os dados da empresa, como rede social, 
 * `Destaque de Produtos:`<br>
 Destaque produtos do seu interesse, deixe produtos aparecer em um banner no aplicativo dos clientes para alavancar a venda dos mesmos.
 
-* `Produtos Mais vendidos:`<br>
+* `Produtos Mais Vendidos:`<br>
 Tenha acesso rápido aos produtos mais vendidos do dia para um melhor controle de estoque.
 
 # Meus Projetos📱
