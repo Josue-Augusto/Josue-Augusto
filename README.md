@@ -53,11 +53,17 @@ Tenha controle total dos pedidos, imprimindo ou alterando o status de andamento 
 * `Cupons:`<br>
 Forneça cupons de desconto para os seus clientes de forma fácil e simples.
 
-* `Horário de Funcionamento`<br>
+* `Horário de Funcionamento:`<br>
 Defina facilmente os dias e horários de funcionamento da empresa.
 
-* `Dados da Empresa`<br>
+* `Dados da Empresa:`<br>
 Seja localizado pelo seu cliente, defina os dados da empresa, como rede social, telefone e muito mais.
+
+* `Destaque de Produtos:`<br>
+Destaque produtos do seu interesse, deixe produtos aparecer em um banner no aplicativo dos clientes para alavancar a venda dos mesmos.
+
+* `Produtos Mais vendidos:`<br>
+Tenha acesso rápido aos produtos mais vendidos do dia para um melhor controle de estoque.
 
 # Meus Projetos📱
 
