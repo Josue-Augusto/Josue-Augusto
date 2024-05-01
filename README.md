@@ -53,6 +53,12 @@ Tenha controle total dos pedidos, imprimindo ou alterando o status de andamento 
 * `Cupons:`<br>
 Forneça cupons de desconto para os seus clientes de forma fácil e simples.
 
+* `Horário de Funcionamento`<br>
+Defina facilmente os dias e horários de funcionamento da empresa.
+
+* `Dados da Empresa`<br>
+Seja localizado pelo seu cliente, defina os dados da empresa, como rede social, telefone e muito mais.
+
 # Meus Projetos📱
 
 ## reference_burguer_shop
