@@ -54,7 +54,7 @@ Tenha controle total dos pedidos, imprimindo ou alterando o status de andamento 
 Forneça cupons de desconto para os seus clientes de forma fácil e simples.
 
 * `Horário de Funcionamento:`<br>
-Defina facilmente os dias e horários de funcionamento da empresa.
+Defina facilmente os dias e horários de funcionamento da empresa, controlando assim quando seus clientes podem estar realizando pedidos.
 
 * `Dados da Empresa:`<br>
 Seja localizado pelo seu cliente, defina os dados da empresa, como rede social, telefone e muito mais.
