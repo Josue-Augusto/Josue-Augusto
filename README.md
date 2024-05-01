@@ -10,6 +10,48 @@
 
 Flutter é um framework desenvolvido pelo Google para a criação de interfaces de usuário nativas para mobile, web e desktop a partir de uma única base de código. Dart é a linguagem de programação usada pelo Flutter, que oferece recursos poderosos para o desenvolvimento rápido e eficiente de aplicativos.
 
+# Trabalhando no momento💻
+
+## Painel de Pedidos
+
+***Dashboard:*** Painel para o Recebimento dos Pedidos do Aplicativo de Delivery.<br>
+Objetivo:<br>
+Fornecer uma ferramenta completa para gestão de pedido e métrica para análise e otimização dos processos da empresa, favorecendo assim o crescimento dela. 
+
+### `Principais Funcionalidades`<br>
+
+* `Usuários Ativos:`<br>
+ Saiba o total de usuários ativos no aplicativo de forma fácil e intuitiva e ainda quantos usuários foram ativos por mês.
+
+* `Ticket Médio:`<br>
+Obtenha o valor de ticket médio por mês por semana de forma prática e clara.
+
+* `Tempo Médio dos Pedidos:`<br>
+Obtenha o tempo médio dos pedidos por mês, semana e dia.
+
+* `Projeção de Pedidos:`<br>
+Se organize com projeção de pedidos por semana e dia com base em períodos de referência.
+
+* `Gráficos:`<br>
+Tenha acesso a vários gráficos para melhor entendimento e gestão de sua empresa.
+
+* `Previsão do Tempo:`<br>
+Obtenha uma previsão do tempo em seu painel para evitar surpresas.
+
+* `Cobertura Efetiva:`<br>
+Uma ferramenta muito importante que permite identificar no mapa a localização aproximada dos pedidos feitos, onde é possível filtrar por mês, permitindo tomadas de decisão com base na cobertura efetiva da empresa. 
+
+* `Relatórios:`<br>
+Acesso a relatórios detalhados para uma maior produtividade e melhor tomada de decisão.
+
+* `Cadastros:`<br>
+Cadastre seus produtos e muito mais em uma tela intuitiva e elegante.
+
+* `Controle dos Pedidos:`<br>
+Tenha controle total dos pedidos, imprimindo ou alterando o status de andamento para acompanhamento do cliente em tempo real.
+
+* `Cupons:`<br>
+Forneça cupons de desconto para os seus clientes de forma fácil e simples.
 
 # Meus Projetos📱
 
