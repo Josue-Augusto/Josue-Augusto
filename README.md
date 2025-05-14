@@ -65,6 +65,12 @@ Destaque produtos do seu interesse, deixe produtos aparecer em um banner no apli
 * `Produtos Mais Vendidos:`<br>
 Tenha acesso rápido aos produtos mais vendidos do dia para um melhor controle de estoque.
 
+* `PDV:`<br>
+Realize o atendimento de seus clientes por meio de um sistema de PDV simples, moderno e muito intuitivo.
+
+* `Controle de Mesas:`<br>
+Tenha o controle total das mesas de seu restaurante, saiba quais estão em uso ou livres, controle os pedidos por mesas de forma simples.
+
 # Meus Projetos📱
 
  ***Tractian Challenge***: Aplicativo criado para desafio Tractian.<br>
