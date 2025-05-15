@@ -141,10 +141,15 @@ Removido o caractere '#' usado pelo Flutter web para gerenciar URLs.
  * `Visualização de Produtos:`<br>
  Os usuários podem navegar por uma variedade de produtos, incluindo roupas, calçados e acessórios. Cada produto é exibido com detalhes, como preço, descrição e imagens.
  * `Realização de Pedidos:`<br>
- Os clientes podem adicionar produtos ao carrinho e finalizar o pedido. O aplicativo permite que eles escolham opções de tamanho, cor e quantidade.
+ Os clientes podem adicionar produtos ao carrinho e finalizar o pedido de forma simples e eficiente. O aplicativo permite que eles escolham opções de tamanho, cor e quantidade.
  * `Entrega Direta:`<br>
  Após a conclusão do pedido, os usuários podem fornecer detalhes de entrega, como endereço e horário preferencial. O aplicativo facilita a entrega dos produtos diretamente ao cliente.
-
+ * `Pesquisa:`<br>
+ A pesquisa de produtos permite a busca de forma inteligente e eficiente.
+ * `Sacola:`<br>
+ Com um designer elegante e prático, a sacola permite uma conferência simples e prática.
+* `Histórico e Pontos:`<br>
+Acompanhe o histórico de pedidos realizados e pontos acumulados em suas compras.
 
 ## financial_app
 
@@ -165,7 +170,7 @@ A autenticação de usuário garante que apenas pessoas autorizadas tenham acess
 Desenvolvido com Flutter e Dart, o aplicativo oferece uma experiência suave em dispositivos móveis.
 * `Benefícios:`<br>
 Eficiência: Simplifique o gerenciamento financeiro da sua empresa com uma solução centralizada.
-* `Tomada de Decisão Informada: 
+* `Tomada de Decisão Informada:` 
 Acompanhe o fluxo de caixa, identifique tendências e tome decisões embasadas.
 * `Economia de Tempo:`<br>
 Reduza o tempo gasto em tarefas manuais de registro e reconciliação.
