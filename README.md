@@ -73,17 +73,6 @@ Tenha o controle total das mesas de seu restaurante, saiba quais estão em uso o
 
 # Meus Projetos📱
 
- ***Tractian Challenge***: Aplicativo criado para desafio Tractian.<br>
-O aplicativo criado para visualização em formato de árvore sem uso de nenhuma biblioteca externa para a construção da interface.
-
- ### `Principais Funcionalidades`<br> 
- * `Visualização Hierárquica:`<br>
- O aplicativo exibe uma estrutura em árvore que representa a hierarquia dos locais e ativos.
- * `Filtros:`<br>
- Filtre de forma fácil e intuitiva os ativos que estão em estado critico ou ativos de monitoramento de energia.
- * `Pesquisa:`<br>
- Realize pesquisa por nome dos ativos ou locais de forma fácil por meio de uma barra de pesquisa.
-
 ## reference_burguer_shop
 
  ***Burguer Reference***: Seu App de Delivery Personalizado.<br>
@@ -106,8 +95,8 @@ O aplicativo criado para visualização em formato de árvore sem uso de nenhuma
  * `Acompanhamento do Pedido:`<br>
  Os usuários podem acompanhar todas as etapas do pedido, desde a preparação até a entrega.
  Receba notificações em tempo real sobre o status do pedido.
- * `Login com Google e Segurança:`<br>
- O login com Google simplifica o acesso dos usuários.
+ * `Login com Google/Apple:`<br>
+ O login com Google ou Apple simplifica o acesso dos usuários.
  Utilizado o Firebase para autenticação segura e armazenamento de dados.
  * `Endereço de Entrega:`<br>
  Cadastre vários endereços de entrega e altere o endereço padrão quando quiser.
@@ -116,6 +105,34 @@ O aplicativo criado para visualização em formato de árvore sem uso de nenhuma
  Navegue pelo aplicativo adicionando seus produtos no carrinho.
  O carrinho conta com uma tela intuitiva que permite uma fácil conferência dos itens adicionando.
  
+
+
+
+## reference_pet_shop
+
+ ***Pet Reference***: Seu App de Cuidados e Compras para Pets<br>
+ O Pet Reference é um aplicativo completo voltado para pet shops e amantes de animais. Com uma interface amigável e recursos inteligentes, o app permite que cada loja ofereça uma experiência personalizada aos seus clientes.
+
+ ### `Principais Funcionalidades`<br> 
+ * `Painel Intuitivo para Empresas:`<br>
+ Gerencie produtos, serviços, promoções com facilidade. Atualize o catálogo em tempo real e acompanhe os pedidos dos clientes.
+ * `Visualização do Catálogo:`<br>
+ Explore uma vitrine virtual com produtos para cães, gatos e outros pets. Fotos de alta qualidade, descrições detalhadas e filtros por categoria tornam a navegação simples e eficiente.
+ * `Agendamentos:`<br>
+ Clientes podem agendar pedidos ou serviços como banho, tosa, consultas veterinárias e vacinação diretamente pelo app.
+ * `Favoritos:`<br>
+ Salve os produtos para acesso rápido em futuras compras ou agendamentos.
+ * `Pesquisa Simplificada:`<br>
+ Com sistema de pesquisa intuitiva e moderna é possível pesquisar o produto desejado.
+ * `Acompanhamento do Pedido:`<br>
+ Receba notificações em tempo real sobre o status do pedido, desde a confirmação até a finalização.
+ * `Login com Google/Apple:`<br>
+ O login com Google ou Apple simplifica o acesso dos usuários.
+ Utilizado o Firebase para autenticação segura e armazenamento de dados.
+ * `Endereço de Entrega:`<br>
+ Cadastre múltiplos endereços para entrega de produtos. O preenchimento automático via API agiliza o processo.
+ * `Carrinho de Compra:`<br>
+ Adicione produtos e serviços ao carrinho com facilidade. A tela de checkout é intuitiva e permite revisão completa antes da finalização.
 
 
 ## web_query_params
@@ -194,10 +211,24 @@ O Gilmar prev financial app é o parceiro ideal para manter suas finanças empre
  O PassRecorder apresenta seus cartões e senhas de forma visualmente agradável. Você pode ver os logotipos dos cartões de crédito.
  * `Login com Google:`<br> 
  Faça login no aplicativo usando sua conta do Google para facilitar a criação de uma conta.
+ * `Múltiplos idiomas:`<br> 
+ Suporte a mais de um idioma com l18n, usando o idioma padrão do dispositivo do usuário.
 
+## tractian_challenge
 
+ ***Tractian Challenge***: Aplicativo criado para desafio Tractian.<br>
+O aplicativo criado para visualização em formato de árvore sem uso de nenhuma biblioteca externa para a construção da interface.
 
- ### Tecnologias Utilizadas:<br>
+ ### `Principais Funcionalidades`<br> 
+ * `Visualização Hierárquica:`<br>
+ O aplicativo exibe uma estrutura em árvore que representa a hierarquia dos locais e ativos.
+ * `Filtros:`<br>
+ Filtre de forma fácil e intuitiva os ativos que estão em estado critico ou ativos de monitoramento de energia.
+ * `Pesquisa:`<br>
+ Realize pesquisa por nome dos ativos ou locais de forma fácil por meio de uma barra de pesquisa.
+
+## 
+ ### Tecnologias Frequentemente Utilizadas:<br>
  * `Flutter:`<br>
  Framework para desenvolvimento de aplicativos móveis multiplataforma.
  * `Bloc Pattern:`<br>
@@ -205,7 +236,9 @@ O Gilmar prev financial app é o parceiro ideal para manter suas finanças empre
  * `Firebase:`<br>
  Para autenticação e persistência segura de dados e imagens.
  * `MySQL:`<br>
- Para persistência dos dados quan
+ Para persistência segura de dados.
+ * `Hive:`<br>
+ Persistência de dados rapida e segura.
  * `Shared Preferences:`<br>
  Para armazenar configurações e preferências do usuário.
 * `Provider:`<br>
