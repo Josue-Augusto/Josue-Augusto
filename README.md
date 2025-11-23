@@ -11,10 +11,11 @@
 
 Flutter é um framework desenvolvido pelo Google para a criação de interfaces de usuário nativas para mobile, web e desktop a partir de uma única base de código. Dart é a linguagem de programação usada pelo Flutter, que oferece recursos poderosos para o desenvolvimento rápido e eficiente de aplicativos.
 
+
 ## 📊 Minhas Métricas no GitHub
 
 ![Metrics](./github-metrics.svg)
-![Metrics](./metrics.svg)
+
 
 
 # Trabalhando no Momento💻
