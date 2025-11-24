@@ -14,7 +14,10 @@ Flutter é um framework desenvolvido pelo Google para a criação de interfaces 
 
 ## 📊 Minhas Métricas no GitHub
 
-![Metrics](./github-metrics.svg)
+![Metrics](./metrics-overview.svg) ![Metrics](./metrics-isocalendar.svg)
+![Metrics](./metrics-languages.svg) ![Metrics](./metrics-followers.svg)
+![Metrics](./metrics-discussions.svg)
+
 
 
 
